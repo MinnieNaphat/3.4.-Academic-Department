@@ -4,8 +4,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 figure {display: inline-block; width:100%; float: center; margin: 0; text-align: center; padding:0;}
 .teach {border-radius: 50%;}
 width: 150px; height: 125px;}
-.wch {width: 400px; height: 300px}
-.jj {width: 600px; height: 150px}
+.wch {width: 100%;}
+.jj {width: 100%;}
 b {color:white;
     font-family: monospace;
     text-align: center;
