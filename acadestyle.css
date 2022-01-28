@@ -5,7 +5,7 @@ figure {display: inline-block; width:100%; float: center; margin: 0; text-align:
 .teach {border-radius: 50%;}
 width: 150px; height: 125px;}
 .wch {width: 100%;}
-.jj {width: 30%;}
+.jj {width: 50%; height: 50%}
 b {color:white;
     font-family: monospace;
     text-align: center;
