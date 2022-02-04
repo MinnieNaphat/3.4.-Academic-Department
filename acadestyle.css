@@ -3,7 +3,7 @@ body {text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 figure {display: inline-block; width:100%; float: center; margin: 0; text-align: center; padding:0;}
 .teach {border-radius: 50%;
-width: 150mm; height: 125mm;}
+width: 20px; height: 50px;}
 .wch {width: 100%;}
 .jj {width:"30%"}
 b {color:white;
